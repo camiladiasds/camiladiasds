@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-<!--
-**camiladiasds/camiladiasds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Itaú Unibanco
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on projects that improve people's lives
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about .net, c#, back-end
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/camiladiasds/)
+
