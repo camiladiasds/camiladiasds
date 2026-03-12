@@ -13,7 +13,7 @@ Backend engineer passionate about building scalable systems and clean architectu
 ##
 
 <div>
- <a href="https://www.linkedin.com/in/camiladiasds/" target="_blank">
+ <a href="https://www.linkedin.com/in/camiladiasds/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
 </div>
